@@ -1,0 +1,19 @@
+{
+  "name": "replaytest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"prutt\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snilssonboy/replaytest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snilssonboy/replaytest/issues"
+  },
+  "homepage": "https://github.com/snilssonboy/replaytest#readme"
+}
